@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": "eef3",
+      "nome": "Stormtrooper",
+      "valor": "60.00",
+      "imagem": "./assets/img/Stormtrooper.png"
+    },
+    {
+      "id": "2d19",
+      "nome": "Game Boy Classic",
+      "valor": "60.00",
+      "imagem": "./assets/img/GameBoyClassic.png"
+    },
+    {
+      "id": "1bd5",
+      "nome": "Stormtrooper",
+      "valor": "60.00",
+      "imagem": "./assets/img/Stormtrooper.png"
+    },
+    {
+      "id": "85eb",
+      "nome": "Game Boy Classic",
+      "valor": "60.00",
+      "imagem": "./assets/img/GameBoyClassic.png"
+    },
+    {
+      "id": "ce53",
+      "nome": "Stormtrooper",
+      "valor": "60.00",
+      "imagem": "./assets/img/Stormtrooper.png"
+    },
+    {
+      "id": "8573",
+      "nome": "Game Boy Classic",
+      "valor": "60.00",
+      "imagem": "./assets/img/GameBoyClassic.png"
+    }
+  ]
+}
