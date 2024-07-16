@@ -1,5 +1,5 @@
 import { conectaApi } from "./conectaApi.js";
-import { excluirProduto } from "./excluiProdutos.js";
+import { excluirProduto } from "./excluirProdutos.js";
 
 const lista = document.querySelector("[data-lista]");
 
